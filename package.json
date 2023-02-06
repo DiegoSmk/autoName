@@ -1,0 +1,22 @@
+{
+  "name": "generatename",
+  "version": "1.0.0",
+  "description": "The code generates random names.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "generateName(2, male)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSmk/autoName.git"
+  },
+  "keywords": [
+    "generatename"
+  ],
+  "author": "Diego Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoSmk/autoName/issues"
+  },
+  "homepage": "https://github.com/DiegoSmk/autoName#readme"
+}
